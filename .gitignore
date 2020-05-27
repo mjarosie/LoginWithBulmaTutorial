@@ -1,0 +1,6 @@
+.ionide
+bin
+obj
+
+# Generated source code
+wwwroot/Content
